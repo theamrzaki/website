@@ -1,0 +1,6 @@
+E:\projects\c++\webapp\upload on local server\upload on local server\bin\upload on local server.dll.config
+E:\projects\c++\webapp\upload on local server\upload on local server\bin\upload on local server.dll
+E:\projects\c++\webapp\upload on local server\upload on local server\bin\upload on local server.pdb
+E:\projects\c++\webapp\upload on local server\upload on local server\obj\Debug\upload on local server.csprojResolveAssemblyReference.cache
+E:\projects\c++\webapp\upload on local server\upload on local server\obj\Debug\upload on local server.dll
+E:\projects\c++\webapp\upload on local server\upload on local server\obj\Debug\upload on local server.pdb
